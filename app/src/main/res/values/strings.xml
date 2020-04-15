@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="save_work">Save Work</string>
+    <string name="delete_work">Delete Work</string>
+</resources>
